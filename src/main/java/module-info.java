@@ -4,5 +4,5 @@ module com.example.multithreading {
 
 
     opens com.example.multithreading to javafx.fxml;
-    exports com.example.multithreading;
+
 }
